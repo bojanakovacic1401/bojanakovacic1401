@@ -1,5 +1,3 @@
-Evo predloga za tvoj README fajl na GitHub-u:
-
 👋 Hi, I’m Bojana Kovačić
 
 📌 About Me:
