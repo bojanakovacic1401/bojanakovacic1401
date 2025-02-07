@@ -1,16 +1,21 @@
-## Hi there 👋
+Evo predloga za tvoj README fajl na GitHub-u:
 
-<!--
-**bojanakovacic1401/bojanakovacic1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Bojana Kovačić
 
-Here are some ideas to get you started:
+📌 About Me:
+	•	🎓 I’m a 21-year-old Software Engineering student
+	•	💻 Passionate about coding, problem-solving, and technology
+	•	🔍 Always eager to learn new things and improve my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Skills & Interests:
+	•	Programming: C++, Python, JavaScript
+	•	Web Development: HTML, CSS, React
+	•	Databases: MySQL, PostgreSQL
+	•	Tools: Git, VS Code, Linux
+
+🚀 Projects & Contributions:
+I’m currently working on various software development projects and always open to collaboration!
+
+📫 Reach me at:
+	•	GitHub Profile
+	•	Email: bojanakovacic1401@gmail.com
